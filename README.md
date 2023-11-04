@@ -48,8 +48,7 @@ Introducing our user-friendly application that allows you to effortlessly access
 
 
 ## Usage
-Please Watch Demo Video 
-![Output Video](https://github.com/rdbhandari/EDemyFrontend/blob/main/outputs/DEMO.mkv?raw=true)
+Please Watch the Demo Video ![DEMO](https://github.com/rdbhandari/EDemyFrontend/blob/main/outputs/DEMO.mp4)
 
 
 ![Static Badge](https://img.shields.io/badge/Output%20Screen-5fb535?style=for-the-badge) 
