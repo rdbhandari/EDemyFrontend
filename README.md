@@ -37,10 +37,13 @@ Introducing our user-friendly application that allows you to effortlessly access
 
         cd EDemyFrontend
 
-4. Install required packages and run Frontend server 
+3. Install required packages and run Frontend server 
 
         npm i 
         npm run data 
+
+4. Now, open another NEW TERMINAL and navigate to the project directory (EDemyFrontend)  
+
         npm run dev
 
 5. Now, visit the site where frontend server is running, in my case (http://localhost:5173/)
@@ -48,13 +51,14 @@ Introducing our user-friendly application that allows you to effortlessly access
 
 
 ## Usage
-Please Watch the Demo Video ![DEMO](https://github.com/rdbhandari/EDemyFrontend/blob/main/outputs/DEMO.mp4)
+Please Watch Demo Video 
+![Output Video](https://github.com/rdbhandari/EDemyFrontend/blob/main/outputs/DEMO.mp4?raw=true)
 
 
 ![Static Badge](https://img.shields.io/badge/Output%20Screen-5fb535?style=for-the-badge) 
 
 
-![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/outputs/OPSS1.png?raw=true)
+![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/OPSS1.png?raw=true)
 
 
 
@@ -72,6 +76,7 @@ Please Watch the Demo Video ![DEMO](https://github.com/rdbhandari/EDemyFrontend/
 
 
 ![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/OPSS6.png?raw=true)
+
 
 
 Credit for Imgae - freepik.com
