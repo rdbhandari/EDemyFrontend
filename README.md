@@ -55,24 +55,24 @@ Please Watch Demo Video
 ![Static Badge](https://img.shields.io/badge/Output%20Screen-5fb535?style=for-the-badge) 
 
 
-![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/main/outputs/OPSS1.png?raw=true)
+![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/outputs/OPSS1.png?raw=true)
 
 
 
-![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/main/OPSS2.png?raw=true)
+![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/OPSS2.png?raw=true)
 
 
-![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/main/OPSS3.png?raw=true)
+![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/OPSS3.png?raw=true)
 
 
-![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/main/OPSS4.png?raw=true)
+![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/OPSS4.png?raw=true)
 
 
 
-![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/main/OPSS5.png?raw=true)
+![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/OPSS5.png?raw=true)
 
 
-![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/main/OPSS6.png?raw=true)
+![Output Screen](https://github.com/rdbhandari/EDemyFrontend/blob/master/outputs/OPSS6.png?raw=true)
 
 
 Credit for Imgae - freepik.com
