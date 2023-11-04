@@ -1,0 +1,597 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "coursename": "Introduction to React Native",
+        "instructor": "John Doe",
+        "description": "Learn the basics of React Native development and build your first mobile app.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://img.freepik.com/free-vector/react-native-mobile-app-abstract-concept-illustration-cross-platform-native-mobile-app-development-framework-javascript-library-user-interface-operating-system_335657-3350.jpg",
+        "duration": "3 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic JavaScript knowledge",
+          "Familiarity with React"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to React Native",
+            "content": "Overview of React Native, setting up your development environment."
+          },
+          {
+            "week": 2,
+            "topic": "Building Your First App",
+            "content": "Creating a simple mobile app using React Native components."
+          },
+          {
+            "week": 3,
+            "topic": "Advanced React Native",
+            "content": "Diving deeper into React Native features and libraries."
+          }
+        ],
+        "students": [
+          101,
+          102,
+          105
+        ]
+      },
+      {
+        "id": 2,
+        "coursename": "Advanced Web Development",
+        "instructor": "Jane Smith",
+        "description": "Take your web development skills to the next level with advanced topics and techniques.",
+        "enrollmentStatus": "Closed",
+        "thumbnail": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg",
+        "duration": "4 weeks",
+        "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Intermediate HTML/CSS",
+          "JavaScript proficiency"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Responsive Web Design",
+            "content": "Creating responsive web layouts using CSS Grid and Flexbox."
+          },
+          {
+            "week": 2,
+            "topic": "Advanced JavaScript",
+            "content": "Exploring closures, promises, and async/await."
+          },
+          {
+            "week": 3,
+            "topic": "Front-End Frameworks",
+            "content": "Introduction to popular front-end frameworks like React and Angular."
+          },
+          {
+            "week": 4,
+            "topic": "Advanced Front-End Development",
+            "content": "Building complex web applications with advanced techniques."
+          }
+        ],
+        "students": [
+          102,
+          104,
+          105
+        ]
+      },
+      {
+        "id": 3,
+        "coursename": "Data Science Fundamentals",
+        "instructor": "Maria Rodriguez",
+        "description": "Learn the basics of data science, including data analysis and machine learning.",
+        "enrollmentStatus": "Closed",
+        "thumbnail": "https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18131.jpg",
+        "duration": "4 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic Python knowledge",
+          "Statistics background"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Data Science",
+            "content": "Overview of data science, data collection, and data types."
+          },
+          {
+            "week": 2,
+            "topic": "Data Analysis with Pandas",
+            "content": "Exploring and manipulating data using the Pandas library."
+          },
+          {
+            "week": 3,
+            "topic": "Statistical Analysis",
+            "content": "Introduction to statistical analysis techniques."
+          },
+          {
+            "week": 4,
+            "topic": "Machine Learning Basics",
+            "content": "Understanding supervised and unsupervised learning."
+          }
+        ],
+        "students": [
+          101,
+          103,
+          105
+        ]
+      },
+      {
+        "id": 4,
+        "coursename": "Mobile App Design",
+        "instructor": "Michael Brown",
+        "description": "Learn the principles of mobile app design and create user-friendly interfaces.",
+        "enrollmentStatus": "In Progress",
+        "thumbnail": "https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg",
+        "duration": "3 weeks",
+        "schedule": "Saturdays, 10:00 AM - 12:00 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic design skills",
+          "Familiarity with mobile apps"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "User-Centered Design",
+            "content": "Understanding user needs and designing for them."
+          },
+          {
+            "week": 2,
+            "topic": "UI/UX Principles",
+            "content": "Exploring UI and UX design principles for mobile apps."
+          },
+          {
+            "week": 3,
+            "topic": "Mobile App Prototyping",
+            "content": "Creating interactive prototypes for user testing."
+          }
+        ],
+        "students": [
+          102,
+          103,
+          105
+        ]
+      },
+      {
+        "id": 5,
+        "coursename": "Front-End Web Development",
+        "instructor": "David Wilson",
+        "description": "Master the art of front-end web development with HTML, CSS, and JavaScript.",
+        "enrollmentStatus": "In Progress",
+        "thumbnail": "https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg",
+        "duration": "3 weeks",
+        "schedule": "Tuesdays and Thursdays, 7:30 PM - 9:30 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic HTML/CSS knowledge",
+          "Intro to JavaScript"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "HTML and CSS Basics",
+            "content": "Building the foundation with HTML and CSS."
+          },
+          {
+            "week": 2,
+            "topic": "JavaScript Fundamentals",
+            "content": "Understanding JavaScript variables, functions, and DOM manipulation."
+          },
+          {
+            "week": 3,
+            "topic": "Responsive Web Design",
+            "content": "Creating websites that adapt to different devices."
+          }
+        ],
+        "students": [
+          101,
+          102,
+          103
+        ]
+      },
+      {
+        "id": 6,
+        "coursename": "Introduction to Python Programming",
+        "instructor": "Sarah Johnson",
+        "description": "Get started with Python programming and learn the basics of coding.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://img.freepik.com/premium-photo/python-programming-code-abstract-technology-background_272306-146.jpg",
+        "duration": "2 weeks",
+        "schedule": "Mondays and Wednesdays, 6:30 PM - 8:30 PM",
+        "location": "Online",
+        "prerequisites": [
+          "No prior coding experience required"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Python Basics",
+            "content": "Introduction to Python syntax, data types, and variables."
+          },
+          {
+            "week": 2,
+            "topic": "Control Flow and Loops",
+            "content": "Understanding conditional statements and loops in Python."
+          }
+        ],
+        "students": [
+          102,
+          104,
+          105
+        ]
+      },
+      {
+        "id": 7,
+        "coursename": "Digital Marketing Fundamentals",
+        "instructor": "Emily Davis",
+        "description": "Learn the essentials of digital marketing and online advertising strategies.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://img.freepik.com/free-photo/digital-marketing-with-icons-business-people_53876-94833.jpg",
+        "duration": "4 weeks",
+        "schedule": "Saturdays, 1:00 PM - 3:00 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic understanding of online marketing"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Digital Marketing Overview",
+            "content": "Understanding the digital marketing landscape."
+          },
+          {
+            "week": 2,
+            "topic": "Search Engine Optimization (SEO)",
+            "content": "Optimizing websites for search engines and improving rankings."
+          },
+          {
+            "week": 3,
+            "topic": "Social Media Marketing",
+            "content": "Leveraging social media platforms for marketing."
+          },
+          {
+            "week": 4,
+            "topic": "Pay-Per-Click Advertising",
+            "content": "Creating effective PPC advertising campaigns."
+          }
+        ],
+        "students": [
+          103,
+          104,
+          105
+        ]
+      },
+      {
+        "id": 8,
+        "coursename": "AI and Machine Learning",
+        "instructor": "Daniel Lee",
+        "description": "Explore the world of AI and machine learning, and build intelligent systems.",
+        "enrollmentStatus": "In Progress",
+        "thumbnail": "https://img.freepik.com/free-vector/ai-powered-content-creation-isometric-concept-with-chatbot-laptop-screen-3d-vector-illustration_1284-82523.jpg",
+        "duration": "4 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic programming knowledge",
+          "Mathematics background"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to AI and ML",
+            "content": "Overview of AI and ML concepts and applications."
+          },
+          {
+            "week": 2,
+            "topic": "Supervised Learning",
+            "content": "Training models with labeled data."
+          },
+          {
+            "week": 3,
+            "topic": "Unsupervised Learning",
+            "content": "Clustering and dimensionality reduction."
+          },
+          {
+            "week": 4,
+            "topic": "Reinforcement Learning",
+            "content": "Training agents to make decisions through rewards."
+          }
+        ],
+        "students": [
+          102,
+          103,
+          104
+        ]
+      },
+      {
+        "id": 9,
+        "coursename": "Graphic Design Fundamentals",
+        "instructor": "Linda Williams",
+        "description": "Learn the basics of graphic design and create stunning visual content.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://img.freepik.com/free-vector/designer-life-concept-illustration_114360-1537.jpg",
+        "duration": "3 weeks",
+        "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+        "location": "Online",
+        "prerequisites": [
+          "No prior design experience required"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Design Principles",
+            "content": "Understanding design elements, balance, and contrast."
+          },
+          {
+            "week": 2,
+            "topic": "Adobe Creative Suite",
+            "content": "Exploring Adobe Photoshop and Illustrator for design."
+          },
+          {
+            "week": 3,
+            "topic": "Typography and Layout",
+            "content": "Effective use of fonts and layout principles."
+          }
+        ],
+        "students": [
+          101,
+          103,
+          105
+        ]
+      },
+      {
+        "id": 10,
+        "coursename": "Data Analytics for Business",
+        "instructor": "Mark Taylor",
+        "description": "Learn how to analyze data for business decision-making and gain insights.",
+        "enrollmentStatus": "In Progress",
+        "thumbnail": "https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg",
+        "duration": "3 weeks",
+        "schedule": "Saturdays, 9:30 AM - 11:30 AM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic understanding of business data"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Data Analysis Fundamentals",
+            "content": "Introduction to data analysis tools and techniques."
+          },
+          {
+            "week": 2,
+            "topic": "Data Visualization",
+            "content": "Creating meaningful visualizations to communicate insights."
+          },
+          {
+            "week": 3,
+            "topic": "Predictive Analytics",
+            "content": "Using data to make predictions and informed decisions."
+          }
+        ],
+        "students": [
+          101,
+          103,
+          104
+        ]
+      },
+      {
+        "id": 11,
+        "coursename": "Java Programming for Beginners",
+        "instructor": "Robert Anderson",
+        "description": "Start your journey into Java programming with a comprehensive beginner's course.",
+        "enrollmentStatus": "In Progress",
+        "thumbnail": "https://img.freepik.com/premium-photo/java-programming-concept-virtual-machine-server-room-background_161452-2879.jpg",
+        "duration": "3 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:30 PM - 8:30 PM",
+        "location": "Online",
+        "prerequisites": [
+          "No prior coding experience required"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Java",
+            "content": "Overview of Java and setting up the development environment."
+          },
+          {
+            "week": 2,
+            "topic": "Java Syntax and Variables",
+            "content": "Understanding Java syntax and working with variables."
+          },
+          {
+            "week": 3,
+            "topic": "Object-Oriented Programming",
+            "content": "Fundamentals of OOP in Java."
+          }
+        ],
+        "students": [
+          102,
+          104,
+          105
+        ]
+      },
+      {
+        "id": 12,
+        "coursename": "Cybersecurity Essentials",
+        "instructor": "Samuel White",
+        "description": "Learn the fundamentals of cybersecurity and protect digital assets from threats.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://img.freepik.com/free-photo/3d-internet-secuirty-badge_1048-18106.jpg",
+        "duration": "3 weeks",
+        "schedule": "Mondays and Wednesdays, 7:30 PM - 9:30 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic computer knowledge"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Cybersecurity Basics",
+            "content": "Introduction to common cyber threats and defense strategies."
+          },
+          {
+            "week": 2,
+            "topic": "Network Security",
+            "content": "Securing networks and data transmission."
+          },
+          {
+            "week": 3,
+            "topic": "Cryptography and Data Protection",
+            "content": "Encryption and data protection techniques."
+          }
+        ],
+        "students": [
+          102,
+          104,
+          105
+        ]
+      },
+      {
+        "id": 13,
+        "coursename": "Creative Writing Workshop",
+        "instructor": "Susan Miller",
+        "description": "Hone your creative writing skills and explore various genres of writing.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://img.freepik.com/free-photo/creativity-creative-ideas-imagination-inspiration-design-concept_53876-123736.jpg",
+        "duration": "3 weeks",
+        "schedule": "Saturdays, 3:30 PM - 5:30 PM",
+        "location": "Online",
+        "prerequisites": [
+          "No prior writing experience required"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Creative Writing",
+            "content": "Exploring the world of creative writing."
+          },
+          {
+            "week": 2,
+            "topic": "Writing Fiction",
+            "content": "Crafting compelling stories and characters."
+          },
+          {
+            "week": 3,
+            "topic": "Poetry and Creative Nonfiction",
+            "content": "Exploring poetry and creative nonfiction writing."
+          }
+        ],
+        "students": [
+        ]
+      },
+      {
+        "id": 14,
+        "coursename": "Business Management Principles",
+        "instructor": "Sarah Carter",
+        "description": "Learn the fundamentals of business management and decision-making.",
+        "enrollmentStatus": "Closed",
+        "thumbnail": "https://img.freepik.com/free-vector/illustration-people-avatar-business-teamwork-concept_53876-37216.jpg",
+        "duration": "4 weeks",
+        "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+        "location": "Online",
+        "prerequisites": [
+          "No prior business knowledge required"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Business Management",
+            "content": "Overview of business management principles and functions."
+          },
+          {
+            "week": 2,
+            "topic": "Strategic Planning",
+            "content": "Developing strategic plans and goals for organizations."
+          },
+          {
+            "week": 3,
+            "topic": "Leadership and Team Management",
+            "content": "Effective leadership and team management strategies."
+          },
+          {
+            "week": 4,
+            "topic": "Marketing and Sales Management",
+            "content": "Marketing strategies and sales management techniques."
+          }
+        ],
+        "students": [
+          104
+        ]
+      },
+      {
+        "id": 15,
+        "coursename": "Mobile Game Development",
+        "instructor": "Daniel Lee",
+        "description": "Create your own mobile games and explore the world of game development.",
+        "enrollmentStatus": "Open",
+        "thumbnail": "https://img.freepik.com/free-vector/mobile-gamble-online-casino-video-game-tablet-console-play_126523-2205.jpg",
+        "duration": "4 weeks",
+        "schedule": "Mondays and Wednesdays, 7:00 PM - 9:00 PM",
+        "location": "Online",
+        "prerequisites": [
+          "Basic programming knowledge"
+        ],
+        "syllabus": [
+          {
+            "week": 1,
+            "topic": "Introduction to Game Development",
+            "content": "Overview of game development concepts and tools."
+          },
+          {
+            "week": 2,
+            "topic": "Game Design Principles",
+            "content": "Fundamentals of game design and user experience."
+          },
+          {
+            "week": 3,
+            "topic": "Creating 2D Games",
+            "content": "Developing 2D mobile games using popular game engines."
+          },
+          {
+            "week": 4,
+            "topic": "Creating 3D Games",
+            "content": "Exploring 3D game development and modeling."
+          }
+        ],
+        "students": [
+          1101,
+          11011,
+          1011
+        ]
+      }
+    ],
+    "students": [
+        {
+          "id": 101,
+          "name": "John Doe",
+          "email": "john@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        },
+        {
+          "id": 103,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },    
+        {
+          "id": 104,
+          "name": "Emily Wilson",
+          "email": "emily@example.com"
+        },
+        {
+          "id": 105,
+          "name": "Michael Brown",
+          "email": "michael@example.com"
+        }
+      ]
+  }
